@@ -1,4 +1,6 @@
-# IIR-SNN (Iteratively Initialized and Retrained SNN) This project implements a sequential training approach which enables SNN inference with just 1 timestep
+# IIR-SNN (Iteratively Initialized and Retrained SNN) 
+
+This project implements a sequential training approach which enables SNN inference with just 1 timestep
 
 Some trained SNN models are available at-
 https://drive.google.com/drive/folders/1L6LIoqGcutb-Aso_8YlFW_JpeGT4xXwA?usp=sharing
