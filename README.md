@@ -1,6 +1,8 @@
 # IIR-SNN (Iteratively Initialized and Retrained SNN) 
 
-Code for the paper- Towards Ultra Low Latency Spiking Neural Networks for Vision and Sequential Tasks Using Temporal Pruning (accepted at ECCV 2022).
+Code for the paper- Towards Ultra Low Latency Spiking Neural Networks for Vision and Sequential Tasks Using Temporal Pruning (ECCV 2022).
+
+https://link.springer.com/chapter/10.1007/978-3-031-20083-0_42
 
 This project implements a sequential training approach which enables SNN inference with just 1 timestep
 
